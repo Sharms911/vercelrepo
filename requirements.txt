@@ -1,0 +1,8 @@
+flask
+requests
+datetime
+timedelta
+urlopen
+matplotlib
+urlopen
+urllib
